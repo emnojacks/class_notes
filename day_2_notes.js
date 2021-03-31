@@ -9,3 +9,8 @@
 //git remote add origin https://github.com/emnojacks/class_notes.git
 //git remote -v = shows if it is indeed linked
 //to push to remote repo git push origin master
+
+//pwd - print working director
+//mkdir - make directory//
+//cd - change directory 
+// cd .. go up to most parent dir
