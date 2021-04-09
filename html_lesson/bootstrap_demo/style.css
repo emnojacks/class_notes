@@ -1,0 +1,14 @@
+body {
+    background-image: url(assault.png);
+    background-image: url("https://www.transparenttextures.com/patterns/assault.png");
+    background-color: #8c5656;
+}
+
+.cardimg {
+    height: 250px;
+    object-fit: cover;
+}
+
+.container {
+    margin: auto;
+}
